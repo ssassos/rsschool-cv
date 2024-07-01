@@ -2,4 +2,4 @@
 
  ### Skills 
 
- HTML,CSS,JS,REACT
+ HTML,CSS,JS,REACT,Redux
